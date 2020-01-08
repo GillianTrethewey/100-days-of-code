@@ -11,7 +11,7 @@
 
 ### R1D2 Round 1 Day 2: Wednesday, January 8, 2020 
 
-**Today's Progress**: Up to 68% of HTML on FreeCodeCamp plus revisited the HTML course on Skillcrush.
+**Today's Progress**: Up to 68% of HTML on FreeCodeCamp plus revisited the HTML course on Skillcrush. Made notes on Skillcrush HTML Cheatsheet to page four; reinforced Block vs Inline elements, plus HTML5 structural tags and rules.
 
 **Thoughts** Glad to see FCC has updated some of the assistive technologies best practices as well. Making physical notes helps me to have a log to which to refer back.
 
