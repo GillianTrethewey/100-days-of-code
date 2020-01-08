@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: Tuesday, January 7, 2020 
+### R1D1 Round 1 Day 1: Tuesday, January 7, 2020 
 
 **Today's Progress**: I've reset my progress on FreeCodeCamp and gone through 65% of the HTML teaching.
 
@@ -8,3 +8,12 @@
 
 **Link(s) to work:** (Progress made up to this point)
 [Basic HTML and HTML5: Add a Submit Button to a Form](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/add-a-submit-button-to-a-form)
+
+### R1D2 Round 1 Day 2: Wednesday, January 8, 2020 
+
+**Today's Progress**: Up to 68% of HTML on FreeCodeCamp plus revisited the HTML course on Skillcrush.
+
+**Thoughts** Glad to see FCC has updated some of the assistive technologies best practices as well. Making physical notes helps me to have a log to which to refer back.
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic HTML and HTML5: Create a Set of Checkboxes]https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-checkboxes
