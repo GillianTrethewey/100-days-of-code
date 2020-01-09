@@ -22,7 +22,7 @@
 
 **Today's Progress**: Finished HTML on FreeCodeCamp. Started CSS on FreeCodeCamp plus finished making notes on the Skillcrush HTML Cheatsheet.
 
-**Thoughts** Glad to see FCC has updated some of the assistive technologies best practices as well. Making physical notes helps me to have a log to which to refer back.
+**Thoughts** Enjoying the "excuse" to code every day.
 
 **Link(s) to work:** (Progress made up to this point)
 [Learn Basic CSS: Change the Color of Text]https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-the-color-of-text
