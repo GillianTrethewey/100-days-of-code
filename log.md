@@ -17,3 +17,12 @@
 
 **Link(s) to work:** (Progress made up to this point)
 [Basic HTML and HTML5: Create a Set of Checkboxes]https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-checkboxes
+
+### R1D3 Round 1 Day 3: Thursday, January 9, 2020 
+
+**Today's Progress**: Finished HTML on FreeCodeCamp. Started CSS on FreeCodeCamp plus finished making notes on the Skillcrush HTML Cheatsheet.
+
+**Thoughts** Glad to see FCC has updated some of the assistive technologies best practices as well. Making physical notes helps me to have a log to which to refer back.
+
+**Link(s) to work:** (Progress made up to this point)
+[Learn Basic CSS: Change the Color of Text]https://www.freecodecamp.org/learn/responsive-web-design/basic-css/change-the-color-of-text
