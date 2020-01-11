@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
+### R1D5 Round 1 Day 5: Saturday, January 11, 2020 
 
-### R1D3 Round 1 Day 4: Friday, January 10, 2020 
+**Today's Progress**:  CSS on FreeCodeCamp, CSS Skillcrush Cheatsheet review started
+
+**Thoughts** Making notes as I go on paper - old school reference.
+
+**Link(s) to work:** (Progress made up to this point)
+[Learn Basic CSS: Add Rounded Corner with Border Radius]https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-rounded-corners-with-border-radius
+
+
+
+### R1D4 Round 1 Day 4: Friday, January 10, 2020 
 
 **Today's Progress**:  CSS on FreeCodeCamp
 
