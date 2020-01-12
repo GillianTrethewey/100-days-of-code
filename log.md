@@ -1,4 +1,15 @@
 # 100 Days Of Code - Log
+
+
+### R1D6 Round 1 Day 6: Sunday, January 12, 2020 
+
+**Today's Progress**:  CSS on FreeCodeCamp, CSS Skillcrush Cheatsheet notes
+
+**Thoughts** Looking forward to my progress after 100 days of regular practice.
+
+**Link(s) to work:** (Progress made up to this point)
+[Learn Basic CSS: Set the id of an Element]https://www.freecodecamp.org/learn/responsive-web-design/basic-css/set-the-id-of-an-element
+
 ### R1D5 Round 1 Day 5: Saturday, January 11, 2020 
 
 **Today's Progress**:  CSS on FreeCodeCamp, CSS Skillcrush Cheatsheet review started
