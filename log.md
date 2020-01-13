@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
 
+
+### R1D7 Round 1 Day 7: Monday, January 13, 2020 
+
+**Today's Progress**:  CSS on FreeCodeCamp, CSS Skillcrush Cheatsheet notes
+
+**Thoughts** none today
+
+**Link(s) to work:** (Progress made up to this point)
+[Learn Basic CSS: Adjust the Padding of an Element]
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/adjust-the-padding-of-an-element
+
 ### R1D6 Round 1 Day 6: Sunday, January 12, 2020 
 
 **Today's Progress**:  CSS on FreeCodeCamp, CSS Skillcrush Cheatsheet notes
