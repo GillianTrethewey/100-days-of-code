@@ -1,4 +1,15 @@
 # 100 Days Of Code - Log
+
+### R1D9 Round 1 Day 9: Wednesday, January 15, 2020 
+
+**Today's Progress**:  CSS on FreeCodeCamp, CSS Skillcrush Cheatsheet notes
+
+**Thoughts** quick today but still worthwhile
+
+**Link(s) to work:** (Progress made up to this point)
+[Learn Basic CSS: Use Clockwise Notation to Specify the Margin of an Element]
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-margin-of-an-element
+
 ### R1D8 Round 1 Day 8: Tuesday, January 14, 2020 
 
 **Today's Progress**:  CSS on FreeCodeCamp, CSS Skillcrush Cheatsheet notes
