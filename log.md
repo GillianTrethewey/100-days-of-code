@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### R1D10 Round 1 Day 19:Thursday, January 16, 2020 
+
+**Today's Progress**:  CSS on FreeCodeCamp, Tutorial on WordPress Customizer for Google Fonts
+
+**Thoughts** learned attr=value for checkbox and radio
+
+**Link(s) to work:** (Progress made up to this point)
+[Learn Basic CSS: Use Attribute Selectors to Style Elements]
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-attribute-selectors-to-style-elements
+
 ### R1D9 Round 1 Day 9: Wednesday, January 15, 2020 
 
 **Today's Progress**:  CSS on FreeCodeCamp, CSS Skillcrush Cheatsheet notes
