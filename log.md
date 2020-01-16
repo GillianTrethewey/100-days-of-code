@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### R1D10 Round 1 Day 19:Thursday, January 16, 2020 
+### R1D10 Round 1 Day 10:Thursday, January 16, 2020 
 
 **Today's Progress**:  CSS on FreeCodeCamp, Tutorial on WordPress Customizer for Google Fonts
 
