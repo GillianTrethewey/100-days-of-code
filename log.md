@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### R1D11 Round 1 Day 11:Friday, January 17, 2020 
+
+**Today's Progress**:  CSS on FreeCodeCamp, CSS on Skillcrush cheatsheet done
+
+**Thoughts** put the new css at the bottom of the style sheet
+
+**Link(s) to work:** (Progress made up to this point)
+[Learn Basic CSS: Override Style in Subsequent CSS]
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-styles-in-subsequent-css
+
 ### R1D10 Round 1 Day 10:Thursday, January 16, 2020 
 
 **Today's Progress**:  CSS on FreeCodeCamp, Tutorial on WordPress Customizer for Google Fonts
