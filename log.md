@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### R1D12 Round 1 Day 12:Saturday, January 18, 2020 
+
+**Today's Progress**:  CSS on FreeCodeCamp, CSS on Skillcrush working with fonts
+
+**Thoughts** need to clarify how to load fonts in WordPress - is @font-face acceptable, Google <link> or just enqueue
+
+**Link(s) to work:** (Progress made up to this point)
+[Learn Basic CSS: Override All Other Styles by Using Important]
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-all-other-styles-by-using-important
+
 ### R1D11 Round 1 Day 11:Friday, January 17, 2020 
 
 **Today's Progress**:  CSS on FreeCodeCamp, CSS on Skillcrush cheatsheet done
