@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-### R1D12 Round 1 Day 12:Saturday, January 18, 2020 
+### R1D13 Round 1 Day 13: January 19, 2020 
+
+**Today's Progress**:  CSS on FreeCodeCamp, CSS on Skillcrush background tiling, navbar within page links
+
+**Thoughts** CSS for drawing shapes is very interesting - saved Penguin to GitHub
+
+**Link(s) to work:** (Progress made up to this point)
+[Learn Basic CSS: Use CSS Variables to Change Several Elements at Once]
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-css-variables-to-change-several-elements-at-once
+
+### R1D12 Round 1 Day 12: January 18, 2020 
 
 **Today's Progress**:  CSS on FreeCodeCamp, CSS on Skillcrush working with fonts
 
@@ -10,7 +20,7 @@
 [Learn Basic CSS: Override All Other Styles by Using Important]
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-all-other-styles-by-using-important
 
-### R1D11 Round 1 Day 11:Friday, January 17, 2020 
+### R1D11 Round 1 Day 11: January 17, 2020 
 
 **Today's Progress**:  CSS on FreeCodeCamp, CSS on Skillcrush cheatsheet done
 
@@ -20,7 +30,7 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-all-
 [Learn Basic CSS: Override Style in Subsequent CSS]
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-styles-in-subsequent-css
 
-### R1D10 Round 1 Day 10:Thursday, January 16, 2020 
+### R1D10 Round 1 Day 10: January 16, 2020 
 
 **Today's Progress**:  CSS on FreeCodeCamp, Tutorial on WordPress Customizer for Google Fonts
 
@@ -30,7 +40,7 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/override-styl
 [Learn Basic CSS: Use Attribute Selectors to Style Elements]
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-attribute-selectors-to-style-elements
 
-### R1D9 Round 1 Day 9: Wednesday, January 15, 2020 
+### R1D9 Round 1 Day 9:  January 15, 2020 
 
 **Today's Progress**:  CSS on FreeCodeCamp, CSS Skillcrush Cheatsheet notes
 
@@ -40,7 +50,7 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-attribute
 [Learn Basic CSS: Use Clockwise Notation to Specify the Margin of an Element]
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise-notation-to-specify-the-margin-of-an-element
 
-### R1D8 Round 1 Day 8: Tuesday, January 14, 2020 
+### R1D8 Round 1 Day 8:  January 14, 2020 
 
 **Today's Progress**:  CSS on FreeCodeCamp, CSS Skillcrush Cheatsheet notes
 
@@ -50,7 +60,7 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-clockwise
 [Learn Basic CSS: Add Different Margins to Each Side of an Element]
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-different-margins-to-each-side-of-an-element
 
-### R1D7 Round 1 Day 7: Monday, January 13, 2020 
+### R1D7 Round 1 Day 7:  January 13, 2020 
 
 **Today's Progress**:  CSS on FreeCodeCamp, CSS Skillcrush Cheatsheet notes
 
@@ -60,7 +70,7 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-different
 [Learn Basic CSS: Adjust the Padding of an Element]
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/adjust-the-padding-of-an-element
 
-### R1D6 Round 1 Day 6: Sunday, January 12, 2020 
+### R1D6 Round 1 Day 6: January 12, 2020 
 
 **Today's Progress**:  CSS on FreeCodeCamp, CSS Skillcrush Cheatsheet notes
 
@@ -70,7 +80,7 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/adjust-the-pa
 [Learn Basic CSS: Set the id of an Element]
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/set-the-id-of-an-element
 
-### R1D5 Round 1 Day 5: Saturday, January 11, 2020 
+### R1D5 Round 1 Day 5: January 11, 2020 
 
 **Today's Progress**:  CSS on FreeCodeCamp, CSS Skillcrush Cheatsheet review started
 
@@ -82,7 +92,7 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-rounded-c
 
 
 
-### R1D4 Round 1 Day 4: Friday, January 10, 2020 
+### R1D4 Round 1 Day 4: January 10, 2020 
 
 **Today's Progress**:  CSS on FreeCodeCamp
 
@@ -93,7 +103,7 @@ https://www.freecodecamp.org/learn/responsive-web-design/basic-css/add-rounded-c
 https://www.freecodecamp.org/learn/responsive-web-design/basic-css/import-a-google-font
 
 
-### R1D3 Round 1 Day 3: Thursday, January 9, 2020 
+### R1D3 Round 1 Day 3: January 9, 2020 
 
 **Today's Progress**: Finished HTML on FreeCodeCamp. Started CSS on FreeCodeCamp plus finished making notes on the Skillcrush HTML Cheatsheet.
 
