@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### R1D14 Round 1 Day 14: January 20, 2020 
+
+**Today's Progress**:  CSS on FreeCodeCamp, CSS on Skillcrush working with layouts, padding, margins
+
+**Thoughts** CSS variables and using variables for media queries - elegant method
+
+**Link(s) to work:** (Progress made up to this point)
+[Learn Basic CSS: Use a Media Query to Change a Variable]
+https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-media-query-to-change-a-variable
+
 ### R1D13 Round 1 Day 13: January 19, 2020 
 
 **Today's Progress**:  CSS on FreeCodeCamp, CSS on Skillcrush background tiling, navbar within page links
