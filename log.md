@@ -2,7 +2,7 @@
 
 ### R1D14 Round 1 Day 14: January 20, 2020 
 
-**Today's Progress**:  CSS on FreeCodeCamp, CSS on Skillcrush working with layouts, padding, margins
+**Today's Progress**:  CSS on FreeCodeCamp, CSS on Skillcrush working with floats
 
 **Thoughts** CSS variables and using variables for media queries - elegant method
 
