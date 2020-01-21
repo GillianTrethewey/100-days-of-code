@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### R1D15 Round 1 Day 15: January 21, 2020 
+
+**Today's Progress**:  Applied Visual Design on FreeCodeCamp, CSS on Skillcrush best practices
+
+**Thoughts** clarified font loading in WordPress - enqueue is for externally linked fonts like Google and Typekit
+
+**Link(s) to work:** (Progress made up to this point)
+[Applied Visual Design: Create a Horizontal Line Using the hr Element]
+https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-horizontal-line-using-the-hr-element
+
 ### R1D14 Round 1 Day 14: January 20, 2020 
 
 **Today's Progress**:  CSS on FreeCodeCamp, CSS on Skillcrush working with floats
