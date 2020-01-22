@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### R1D16 Round 1 Day 16: January 22, 2020 
+
+**Today's Progress**:  Applied Visual Design on FreeCodeCamp, HTML-CSS on Skillcrush practice site
+
+**Thoughts** box-shadow nuances
+
+**Link(s) to work:** (Progress made up to this point)
+[Applied Visual Design: Decreasae the Opacity of an Element]
+https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/decrease-the-opacity-of-an-element
+
 ### R1D15 Round 1 Day 15: January 21, 2020 
 
 **Today's Progress**:  Applied Visual Design on FreeCodeCamp, CSS on Skillcrush best practices
