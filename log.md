@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### R1D18 Round 1 Day 18: January 24, 2020 
+
+**Today's Progress**:  Applied Visual Design on FreeCodeCamp
+
+**Thoughts** fixed positioning and floats
+
+**Link(s) to work:** (Progress made up to this point)
+[Applied Visual Design: Push Elements Left or Right with the Float Property]
+https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/push-elements-left-or-right-with-the-float-property
+
 ### R1D17 Round 1 Day 17: January 23, 2020 
 
 **Today's Progress**:  Applied Visual Design on FreeCodeCamp, HTML-CSS on Skillcrush practice site
