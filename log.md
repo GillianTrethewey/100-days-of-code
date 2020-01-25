@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### R1D19 Round 1 Day 19: January 25, 2020 
+
+**Today's Progress**:  Applied Visual Design on FreeCodeCamp, Skillcrush HTML on portfolio website
+
+**Thoughts** z-index, floats
+
+**Link(s) to work:** (Progress made up to this point)
+[Applied Visual Design: Push Elements Left or Right with the Float Property]https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/center-an-element-horizontally-using-the-margin-property
+
 ### R1D18 Round 1 Day 18: January 24, 2020 
 
 **Today's Progress**:  Applied Visual Design on FreeCodeCamp
