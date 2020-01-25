@@ -7,7 +7,8 @@
 **Thoughts** z-index, floats
 
 **Link(s) to work:** (Progress made up to this point)
-[Applied Visual Design: Push Elements Left or Right with the Float Property]https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/center-an-element-horizontally-using-the-margin-property
+[Applied Visual Design: Center an Element Horizontally Using the Margin Property]
+https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/center-an-element-horizontally-using-the-margin-property
 
 ### R1D18 Round 1 Day 18: January 24, 2020 
 
