@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### R1D20 Round 1 Day 20: January 26, 2020 
+
+**Today's Progress**:  Applied Visual Design on FreeCodeCamp
+
+**Thoughts** color theory, hsl() property
+
+**Link(s) to work:** (Progress made up to this point)
+[Applied Visual Design: Adjust the Hue of a Color]
+https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/adjust-the-hue-of-a-color
+
 ### R1D19 Round 1 Day 19: January 25, 2020 
 
 **Today's Progress**:  Applied Visual Design on FreeCodeCamp, Skillcrush HTML on portfolio website
