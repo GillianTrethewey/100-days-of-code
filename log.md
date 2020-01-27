@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### R1D21 Round 1 Day 21: January 27, 2020 
+
+**Today's Progress**:  Applied Visual Design on FreeCodeCamp, Skillcrush portfolio site
+
+**Thoughts** color tones, color gradients
+
+**Link(s) to work:** (Progress made up to this point)
+[Applied Visual Design: Create a Gradual CSS Linear Gradient]
+https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-gradual-css-linear-gradient
+
 ### R1D20 Round 1 Day 20: January 26, 2020 
 
 **Today's Progress**:  Applied Visual Design on FreeCodeCamp
