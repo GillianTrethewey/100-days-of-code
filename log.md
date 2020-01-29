@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### R1D23 Round 1 Day 23: January 29, 2020 
+
+**Today's Progress**:  Applied Visual Design on FreeCodeCamp, Skillcrush portfolio exercise
+
+**Thoughts** using css to draw
+
+**Link(s) to work:** (Progress made up to this point)
+[Applied Visual Design: Create a Graphic Using CSS]
+https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-a-graphic-using-css
+
 ### R1D22 Round 1 Day 22: January 28, 2020 
 
 **Today's Progress**:  Applied Visual Design on FreeCodeCamp
