@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### R1D22 Round 1 Day 22: January 28, 2020 
+
+**Today's Progress**:  Applied Visual Design on FreeCodeCamp
+
+**Thoughts** stripes, background texture
+
+**Link(s) to work:** (Progress made up to this point)
+[Applied Visual Design: Create Texture by Adding a Background Image]
+https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-texture-by-adding-a-subtle-pattern-as-a-background-image
+
 ### R1D21 Round 1 Day 21: January 27, 2020 
 
 **Today's Progress**:  Applied Visual Design on FreeCodeCamp, Skillcrush portfolio site
