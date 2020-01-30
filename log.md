@@ -1,10 +1,20 @@
 # 100 Days Of Code - Log
 
+### R1D24 Round 1 Day 24: January 30, 2020 
+
+**Today's Progress**:  Applied Visual Design on FreeCodeCamp, Skillcrush portfolio exercise
+
+**Thoughts** using CSS animation
+
+**Link(s) to work:** (Progress made up to this point)
+[Applied Visual Design: Create Movement Using CSS Animation]
+https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/create-movement-using-css-animation
+
 ### R1D23 Round 1 Day 23: January 29, 2020 
 
 **Today's Progress**:  Applied Visual Design on FreeCodeCamp, Skillcrush portfolio exercise
 
-**Thoughts** using css to draw
+**Thoughts** using CSS to draw
 
 **Link(s) to work:** (Progress made up to this point)
 [Applied Visual Design: Create a Graphic Using CSS]
