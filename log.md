@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### R1D26 Round 1 Day 26: February 1, 2020 
+
+**Today's Progress**:  Applied Visual Design on FreeCodeCamp, Skillcrush portfolio exercise
+
+**Thoughts** using CSS animation
+
+**Link(s) to work:** (Progress made up to this point)
+[Applied Visual Design: Make a CSS Heartbeat Using an Infinite Animation Count]
+https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/make-a-css-heartbeat-using-an-infinite-animation-count
+
 ### R1D25 Round 1 Day 25: January 31, 2020 
 
 **Today's Progress**:  Applied Visual Design on FreeCodeCamp, Skillcrush portfolio exercise
