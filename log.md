@@ -3,6 +3,7 @@
 ### R1D26 Round 1 Day 26: February 1, 2020 
 
 **Today's Progress**:  Applied Visual Design on FreeCodeCamp, Skillcrush portfolio exercise
+https://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/
 
 **Thoughts** using CSS animation
 
