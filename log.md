@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### R1D28 Round 1 Day 28 February 3, 2020 
+
+**Today's Progress**:  Applied Visual Design on FreeCodeCamp - completed today
+
+**Thoughts** using CSS animation
+
+**Link(s) to work:** (Progress made up to this point)
+[Applied Visual Design: Make Motion More Natural Using a Bezier Curve]
+https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/make-motion-more-natural-using-a-bezier-curve
+
 ### R1D27 Round 1 Day 27 February 2, 2020 
 
 **Today's Progress**:  Applied Visual Design on FreeCodeCamp
