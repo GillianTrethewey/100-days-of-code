@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### R1D27 Round 1 Day 27 February 2, 2020 
+
+**Today's Progress**:  Applied Visual Design on FreeCodeCamp
+
+**Thoughts** using CSS animation
+
+**Link(s) to work:** (Progress made up to this point)
+[Applied Visual Design: Animate Multiple Elements at Variable Rates]
+https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/animate-multiple-elements-at-variable-rates
+
 ### R1D26 Round 1 Day 26: February 1, 2020 
 
 **Today's Progress**:  Applied Visual Design on FreeCodeCamp, Skillcrush portfolio exercise
