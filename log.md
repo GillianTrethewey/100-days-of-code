@@ -1,8 +1,8 @@
 # 100 Days Of Code - Log
 
 ### OVERALL COMPLETED COURSES ###
-### FREE CODE CAMP ### 
-### Responsive Web Design Certification Courses ###
+### FREE CODE CAMP: ### 
+### Responsive Web Design Certification Courses: ###
 
 Basic HTML and HTML5
 
@@ -12,8 +12,8 @@ Applied Visual Design
 
 Current: Applied Accessibility
 
-### SKILLCRUSH ###
-### Phase 1: Foundation ###
+### SKILLCRUSH: ###
+### Phase 1: Foundation: ###
 
 HTML5 and CSS (Portfolio Project)
 
