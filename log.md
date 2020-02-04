@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### R1D29 Round 1 Day 29 February 4, 2020 
+
+**Today's Progress**:  Applied Accessibility on Free Code Camp, new Skillcrush project
+
+**Thoughts** don't use h1 - h6 for sizing, only for sematic content; use CSS for sizing
+
+**Link(s) to work:** (Progress made up to this point)
+[Applied Accessibility: Use Headings to Show Hierarchical Relationship of Content]
+https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/use-headings-to-show-hierarchical-relationships-of-content
+
 ### R1D28 Round 1 Day 28 February 3, 2020 
 
 **Today's Progress**:  Applied Visual Design on FreeCodeCamp - completed today
