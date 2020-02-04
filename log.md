@@ -2,7 +2,7 @@
 
 ### R1D29 Round 1 Day 29 February 4, 2020 
 
-**Today's Progress**:  Applied Accessibility on Free Code Camp, new Skillcrush project
+**Today's Progress**:  Applied Accessibility on Free Code Camp, finished Skillcrush Project 2, started GIT
 
 **Thoughts** don't use h1 - h6 for sizing, only for sematic content; use CSS for sizing
 
