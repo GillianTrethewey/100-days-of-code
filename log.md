@@ -3,8 +3,8 @@
 ### OVERALL COMPLETED COURSES ###
 ### FREE CODE CAMP ### 
 ### Responsive Web Design Certification Courses ###
-Basic HTML and HTML5
-Basic CSS
+** Basic HTML and HTML5 **
+** Basic CSS **
 Applied Visual Design
 Current: Applied Accessibility
 
