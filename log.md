@@ -19,6 +19,16 @@ HTML5 and CSS (Portfolio Project)
 
 Current: GIT and GITHUB
 
+### R1D30 Round 1 Day 30 February 5, 2020 
+
+**Today's Progress**:  Applied Accessibility on Free Code Camp, Skillcrush GIT
+
+**Thoughts** sections can be within articles
+
+**Link(s) to work:** (Progress made up to this point)
+[Applied Accessibility: Wrap Content in the Article Element]
+https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/wrap-content-in-the-article-element
+
 ### R1D29 Round 1 Day 29 February 4, 2020 
 
 **Today's Progress**:  Applied Accessibility on Free Code Camp, finished Skillcrush Project 2, started GIT
