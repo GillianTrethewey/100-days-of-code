@@ -1,23 +1,14 @@
 # 100 Days Of Code - Log
 
-### OVERALL COMPLETED COURSES ###
-### FREE CODE CAMP: ### 
-### Responsive Web Design Certification Courses: ###
+# Completed Courses #
+FREE CODE CAMP  | SKILLCRUSH
+------------- | -------------
+Responsive Web Design Certification  | Phase 1: Foundation
+Basic HTML and HTML5  | Content Cell
+Basic CSS  | HTML5 and CSS (Portfolio Project)
+Applied Visual Design  | CURRENT: GIT and GITHUB
+CURRENT: Applied Accessibility  | 
 
-Basic HTML and HTML5
-
-Basic CSS
-
-Applied Visual Design
-
-Current: Applied Accessibility
-
-### SKILLCRUSH: ###
-### Phase 1: Foundation: ###
-
-HTML5 and CSS (Portfolio Project)
-
-Current: GIT and GITHUB
 
 ### R1D30 Round 1 Day 30 February 5, 2020 
 
