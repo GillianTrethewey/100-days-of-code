@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code ROUND 1 - Log
 
 # Completed Courses #
 FREE CODE CAMP  | SKILLCRUSH
