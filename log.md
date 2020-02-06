@@ -9,6 +9,16 @@ Basic CSS  | HTML5 and CSS (Portfolio Project)
 Applied Visual Design  | CURRENT: GIT and GITHUB
 CURRENT: Applied Accessibility  | 
 
+### R1D31 Round 1 Day 31 February 6, 2020 
+
+**Today's Progress**:  Applied Accessibility on Free Code Camp, Skillcrush GIT
+
+**Thoughts** review of Git commands
+
+**Link(s) to work:** (Progress made up to this point)
+[Applied Accessibility: Footer Landmark with Screen Readers]
+https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/make-screen-reader-navigation-easier-with-the-footer-landmark
+
 
 ### R1D30 Round 1 Day 30 February 5, 2020 
 
