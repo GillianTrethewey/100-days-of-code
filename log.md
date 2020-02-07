@@ -4,8 +4,8 @@
 FREE CODE CAMP  | SKILLCRUSH
 ------------- | -------------
 Responsive Web Design Certification  | Phase 1: Foundation
-Basic HTML and HTML5  | Content Cell
-Basic CSS  | HTML5 and CSS (Portfolio Project)
+Basic HTML and HTML5  | HTML5 and CSS
+Basic CSS  | Portfolio Project
 Applied Visual Design  | CURRENT: GIT and GITHUB
 CURRENT: Applied Accessibility  | 
 
