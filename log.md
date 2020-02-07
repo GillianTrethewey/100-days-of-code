@@ -4,10 +4,10 @@
 FREE CODE CAMP  | SKILLCRUSH
 ------------- | -------------
 Responsive Web Design Certification  | Phase 1: Foundation
-Basic HTML and HTML5  | HTML5 and CSS
-Basic CSS  | Portfolio Project
-Applied Visual Design  | CURRENT: GIT and GITHUB
-CURRENT: Applied Accessibility  | 
+Basic HTML and HTML5  | HTML5 
+Basic CSS  | CSS
+Applied Visual Design  | Portfolio Project
+CURRENT: Applied Accessibility  | CURRENT: GIT and GITHUB
 
 ### R1D32 Round 1 Day 32 February 7, 2020 
 
