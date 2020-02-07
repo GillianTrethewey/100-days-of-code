@@ -9,6 +9,16 @@ Basic CSS  | HTML5 and CSS (Portfolio Project)
 Applied Visual Design  | CURRENT: GIT and GITHUB
 CURRENT: Applied Accessibility  | 
 
+### R1D32 Round 1 Day 32 February 7, 2020 
+
+**Today's Progress**:  Applied Accessibility on Free Code Camp, Skillcrush GIT
+
+**Thoughts** local repository commands
+
+**Link(s) to work:** (Progress made up to this point)
+[Applied Accessibility: Accessibility of Audio Content]
+https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/improve-accessibility-of-audio-content-with-the-audio-element
+
 ### R1D31 Round 1 Day 31 February 6, 2020 
 
 **Today's Progress**:  Applied Accessibility on Free Code Camp, Skillcrush GIT
