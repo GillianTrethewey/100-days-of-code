@@ -13,7 +13,7 @@ CURRENT: Applied Accessibility  | CURRENT: GIT and GITHUB
 
 **Today's Progress**:  Applied Accessibility on Free Code Camp, Skillcrush GIT
 
-**Thoughts** GitHub orientation
+**Thoughts** GitHub SSH key
 
 **Link(s) to work:** (Progress made up to this point)
 [Applied Accessibility: Date Picker]
