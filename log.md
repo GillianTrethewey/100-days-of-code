@@ -9,6 +9,16 @@ Basic CSS  | CSS
 Applied Visual Design  | Portfolio Project
 CURRENT: Applied Accessibility  | CURRENT: GIT and GITHUB
 
+### R1D34 Round 1 Day 34 February 9, 2020 
+
+**Today's Progress**:  Applied Accessibility on Free Code Camp, Skillcrush GIT
+
+**Thoughts** GitHub orientation
+
+**Link(s) to work:** (Progress made up to this point)
+[Applied Accessibility: Date Picker]
+https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/wrap-radio-buttons-in-a-fieldset-element-for-better-accessibility
+
 ### R1D33 Round 1 Day 33 February 8, 2020 
 
 **Today's Progress**:  Applied Accessibility on Free Code Camp, Skillcrush GIT
