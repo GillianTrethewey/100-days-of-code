@@ -9,6 +9,16 @@ Basic CSS  | CSS
 Applied Visual Design  | Portfolio Project
 CURRENT: Applied Accessibility  | CURRENT: GIT and GITHUB
 
+### R1D36 Round 1 Day 36 February 11, 2020 
+
+**Today's Progress**:  Applied Accessibility on Free Code Camp, Skillcrush GitHub
+
+**Thoughts** date picker
+
+**Link(s) to work:** (Progress made up to this point)
+[Applied Accessibility: Standardize Date-Time]
+https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/standardize-times-with-the-html5-datetime-attribute
+
 ### R1D35 Round 1 Day 35 February 10, 2020 
 
 **Today's Progress**:  Applied Accessibility on Free Code Camp
