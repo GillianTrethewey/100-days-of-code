@@ -9,6 +9,26 @@ Basic CSS  | CSS
 Applied Visual Design  | Portfolio Project
 CURRENT: Applied Accessibility  | CURRENT: GIT and GITHUB
 
+### R1D38 Round 1 Day 38 February 13, 2020 
+
+**Today's Progress**:  Applied Accessibility on Free Code Camp, Skillcrush GitHub
+
+**Thoughts** colour contrast accessibility, GitHub
+
+**Link(s) to work:** (Progress made up to this point)
+[Applied Accessibility: Learning About Color Contrast]
+https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/avoid-colorblindness-issues-by-using-sufficient-contrast
+
+### R1D37 Round 1 Day 37 February 12, 2020 
+
+**Today's Progress**:  Applied Accessibility on Free Code Camp, Skillcrush GitHub
+
+**Thoughts** first repo exercise with GitHub, screen reader css
+
+**Link(s) to work:** (Progress made up to this point)
+[Applied Accessibility: Make Elements Visible Only to a Screen Reader]
+https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/make-elements-only-visible-to-a-screen-reader-by-using-custom-css
+
 ### R1D36 Round 1 Day 36 February 11, 2020 
 
 **Today's Progress**:  Applied Accessibility on Free Code Camp, Skillcrush GitHub
