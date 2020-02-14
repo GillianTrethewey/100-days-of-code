@@ -7,7 +7,18 @@ Responsive Web Design Certification  | Phase 1: Foundation
 Basic HTML and HTML5  | HTML5 
 Basic CSS  | CSS
 Applied Visual Design  | Portfolio Project
-CURRENT: Applied Accessibility  | CURRENT: GIT and GITHUB
+Applied Accessibility  | 
+CURRENT: Responsive Web Design  | CURRENT: GIT and GITHUB
+
+### R1D39 Round 1 Day 39 February 14, 2020 
+
+**Today's Progress**:  Finished Applied Accessibility on Free Code Camp, Skillcrush GitHub
+
+**Thoughts** tabindex, GitHub
+
+**Link(s) to work:** (Progress made up to this point)
+[Applied Accessibility: Tabindex]
+https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements
 
 ### R1D38 Round 1 Day 38 February 13, 2020 
 
