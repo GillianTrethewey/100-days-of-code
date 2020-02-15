@@ -10,6 +10,16 @@ Applied Visual Design  | Portfolio Project
 Applied Accessibility  | 
 CURRENT: Responsive Web Design  | CURRENT: GIT and GITHUB
 
+### R1D40 Round 1 Day 40 February 15, 2020 
+
+**Today's Progress**:  Responsive Web Design Free Code Camp, Skillcrush GitHub
+
+**Thoughts** media queries, GitHub
+
+**Link(s) to work:** (Progress made up to this point)
+[Responsive Web Design Principles: Create a Media Query]
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/create-a-media-query
+
 ### R1D39 Round 1 Day 39 February 14, 2020 
 
 **Today's Progress**:  Finished Applied Accessibility on Free Code Camp, Skillcrush GitHub
