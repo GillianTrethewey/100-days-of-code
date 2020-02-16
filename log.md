@@ -8,7 +8,18 @@ Basic HTML and HTML5  | HTML5
 Basic CSS  | CSS
 Applied Visual Design  | Portfolio Project
 Applied Accessibility  | 
-CURRENT: Responsive Web Design  | CURRENT: GIT and GITHUB
+Responsive Web Design  | 
+CURRENT: CSS FLEXBOX   | CURRENT: GIT and GITHUB
+
+### R1D41 Round 1 Day 41 February 16, 2020 
+
+**Today's Progress**:  Finished Responsive Web Design Free Code Camp, Skillcrush GitHub
+
+**Thoughts** vw units, GitHub
+
+**Link(s) to work:** (Progress made up to this point)
+[Responsive Web Design Principles: Viewport Units]
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/make-typography-responsive
 
 ### R1D40 Round 1 Day 40 February 15, 2020 
 
