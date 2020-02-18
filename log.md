@@ -11,6 +11,16 @@ Applied Accessibility  |
 Responsive Web Design  | 
 CURRENT: CSS FLEXBOX   | CURRENT: GIT and GITHUB
 
+### R1D42 Round 1 Day 42 February 17, 2020 
+
+**Today's Progress**:  CSS Flexbox, Skillcrush GitHub
+
+**Thoughts** display:flex, GitHub
+
+**Link(s) to work:** (Progress made up to this point)
+[Responsive Web Design Principles: Add Flex to Tweet Embed]
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/add-flex-superpowers-to-the-tweet-embed
+
 ### R1D41 Round 1 Day 41 February 16, 2020 
 
 **Today's Progress**:  Finished Responsive Web Design Free Code Camp, Skillcrush GitHub
