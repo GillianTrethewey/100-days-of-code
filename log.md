@@ -11,6 +11,16 @@ Applied Accessibility  |
 Responsive Web Design  | 
 CURRENT: CSS FLEXBOX   | CURRENT: GIT and GITHUB
 
+### R1D43 Round 1 Day 43 February 18, 2020 
+
+**Today's Progress**:  CSS Flexbox, Skillcrush GitHub
+
+**Thoughts** flex-direction, GitHub
+
+**Link(s) to work:** (Progress made up to this point)
+[Responsive Web Design Principles: Flex Direction for Columns]
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/apply-the-flex-direction-property-to-create-a-column-in-the-tweet-embed
+
 ### R1D42 Round 1 Day 42 February 17, 2020 
 
 **Today's Progress**:  CSS Flexbox, Skillcrush GitHub
