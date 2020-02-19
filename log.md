@@ -11,6 +11,16 @@ Applied Accessibility  |
 Responsive Web Design  | 
 CURRENT: CSS FLEXBOX   | CURRENT: GIT and GITHUB
 
+### R1D44 Round 1 Day 44 February 19, 2020 
+
+**Today's Progress**:  CSS Flexbox, Skillcrush GitHub
+
+**Thoughts** justify-content, GitHub
+
+**Link(s) to work:** (Progress made up to this point)
+[Responsive Web Design Principles: Justify Content Property]
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-justify-content-property-in-the-tweet-embed
+
 ### R1D43 Round 1 Day 43 February 18, 2020 
 
 **Today's Progress**:  CSS Flexbox, Skillcrush GitHub
