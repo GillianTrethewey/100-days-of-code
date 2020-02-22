@@ -11,11 +11,31 @@ Applied Accessibility  |
 Responsive Web Design  | 
 CURRENT: CSS FLEXBOX   | CURRENT: GIT and GITHUB
 
-### R1D44 Round 1 Day 44 February 19, 2020 
+### R1D46 Round 1 Day 46 February 21, 2020 
+
+**Today's Progress**:  CSS Flexbox
+
+**Thoughts** flex-wrap
+
+**Link(s) to work:** (Progress made up to this point)
+[Responsive Web Design Principles: Flex Wrap]
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-wrap-property-to-wrap-a-row-or-column
+
+### R1D45 Round 1 Day 45 February 20, 2020 
 
 **Today's Progress**:  CSS Flexbox, Skillcrush GitHub
 
-**Thoughts** justify-content, GitHub
+**Thoughts** align-items, GitHub
+
+**Link(s) to work:** (Progress made up to this point)
+[Responsive Web Design Principles: Align Items]
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-items-property-in-the-tweet-embed
+
+### R1D44 Round 1 Day 44 February 19, 2020 
+
+**Today's Progress**:  CSS Flexbox
+
+**Thoughts** justify-content
 
 **Link(s) to work:** (Progress made up to this point)
 [Responsive Web Design Principles: Justify Content Property]
