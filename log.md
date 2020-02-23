@@ -11,6 +11,16 @@ Applied Accessibility  |
 Responsive Web Design  | 
 CURRENT: CSS FLEXBOX   | CURRENT: GIT and GITHUB
 
+### R1D47 Round 1 Day 47 February 22, 2020 
+
+**Today's Progress**:  CSS Flexbox
+
+**Thoughts** flex-shrink
+
+**Link(s) to work:** (Progress made up to this point)
+[Responsive Web Design Principles: Flex Shrink]
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-shrink-property-to-shrink-items
+
 ### R1D46 Round 1 Day 46 February 21, 2020 
 
 **Today's Progress**:  CSS Flexbox
