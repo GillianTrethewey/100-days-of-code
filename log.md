@@ -11,6 +11,16 @@ Applied Accessibility  |
 Responsive Web Design  | 
 CURRENT: CSS FLEXBOX   | CURRENT: GIT and GITHUB
 
+### R1D49 Round 1 Day 49 February 24, 2020 
+
+**Today's Progress**:  CSS Flexbox
+
+**Thoughts** flex-basis
+
+**Link(s) to work:** (Progress made up to this point)
+[Responsive Web Design Principles: Flex Basis]
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-basis-property-to-set-the-initial-size-of-an-item
+
 ### R1D48 Round 1 Day 48 February 23, 2020 
 
 **Today's Progress**:  CSS Flexbox
