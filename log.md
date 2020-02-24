@@ -11,6 +11,16 @@ Applied Accessibility  |
 Responsive Web Design  | 
 CURRENT: CSS FLEXBOX   | CURRENT: GIT and GITHUB
 
+### R1D48 Round 1 Day 48 February 23, 2020 
+
+**Today's Progress**:  CSS Flexbox
+
+**Thoughts** flex-grow
+
+**Link(s) to work:** (Progress made up to this point)
+[Responsive Web Design Principles: Flex Grow]
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-grow-property-to-expand-items
+
 ### R1D47 Round 1 Day 47 February 22, 2020 
 
 **Today's Progress**:  CSS Flexbox
