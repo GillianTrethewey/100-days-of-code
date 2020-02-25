@@ -11,6 +11,16 @@ Applied Accessibility  |
 Responsive Web Design  | 
 CURRENT: CSS FLEXBOX   | CURRENT: GIT and GITHUB
 
+### R1D50 Round 1 Day 50 February 25, 2020 
+
+**Today's Progress**:  CSS Flexbox
+
+**Thoughts** flex shorthand
+
+**Link(s) to work:** (Progress made up to this point)
+[Responsive Web Design Principles: Flex Shorthand]
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-flex-shorthand-property
+
 ### R1D49 Round 1 Day 49 February 24, 2020 
 
 **Today's Progress**:  CSS Flexbox
