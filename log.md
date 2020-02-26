@@ -9,7 +9,18 @@ Basic CSS  | CSS
 Applied Visual Design  | Portfolio Project
 Applied Accessibility  | 
 Responsive Web Design  | 
-CURRENT: CSS FLEXBOX   | CURRENT: GIT and GITHUB
+CSS Flexbox   | 
+CURRENT: CSS Grid  | CURRENT: GIT and GITHUB
+
+### R1D51 Round 1 Day 51 February 26, 2020 
+
+**Today's Progress**:  Finished Free Code Camp CSS Flexbox
+
+**Thoughts** align-self
+
+**Link(s) to work:** (Progress made up to this point)
+[Responsive Web Design Principles: Flex Align-self]
+https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-self-property
 
 ### R1D50 Round 1 Day 50 February 25, 2020 
 
