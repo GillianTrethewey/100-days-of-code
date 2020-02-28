@@ -7,10 +7,20 @@ Responsive Web Design Certification  | Phase 1: Foundation
 Basic HTML and HTML5  | HTML5 
 Basic CSS  | CSS
 Applied Visual Design  | Portfolio Project
-Applied Accessibility  | 
+Applied Accessibility  | GitHub control for log.md
 Responsive Web Design  | 
 CSS Flexbox   | 
 CURRENT: CSS Grid  | CURRENT: GIT and GITHUB
+
+### R1D53 Round 1 Day 53 February 28, 2020 
+
+**Today's Progress**:  Free Code Camp CSS Grid
+
+**Thoughts** CSS grid-column, grid-row
+
+**Link(s) to work:** (Progress made up to this point)
+[Responsive Web Design Principles: CSS Grid Row]
+https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-grid-row-to-control-spacing
 
 ### R1D52 Round 1 Day 52 February 27, 2020 
 
