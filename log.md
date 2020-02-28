@@ -12,6 +12,16 @@ Responsive Web Design  |
 CSS Flexbox   | 
 CURRENT: CSS Grid  | CURRENT: GIT and GITHUB
 
+### R1D52 Round 1 Day 52 February 27, 2020 
+
+**Today's Progress**:  Free Code Camp CSS Grid
+
+**Thoughts** CSS grid units (fr)
+
+**Link(s) to work:** (Progress made up to this point)
+[Responsive Web Design Principles: CSS Grid Units]
+https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-css-grid-units-to-change-the-size-of-columns-and-rows
+
 ### R1D51 Round 1 Day 51 February 26, 2020 
 
 **Today's Progress**:  Finished Free Code Camp CSS Flexbox
