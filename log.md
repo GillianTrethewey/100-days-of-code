@@ -12,6 +12,16 @@ Responsive Web Design  |
 CSS Flexbox   | 
 CURRENT: CSS Grid  | CURRENT: GIT and GITHUB
 
+### R1D54 Round 1 Day 54 February 29, 2020 
+
+**Today's Progress**:  Free Code Camp CSS Grid, Git Troubleshooting
+
+**Thoughts** CSS grid justify-self and align-self
+
+**Link(s) to work:** (Progress made up to this point)
+[Responsive Web Design Principles: Align Vertically Using Align Items]
+https://www.freecodecamp.org/learn/responsive-web-design/css-grid/align-all-items-vertically-using-align-items
+
 ### R1D53 Round 1 Day 53 February 28, 2020 
 
 **Today's Progress**:  Free Code Camp CSS Grid
