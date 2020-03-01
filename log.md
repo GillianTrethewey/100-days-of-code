@@ -12,6 +12,16 @@ Responsive Web Design  |
 CSS Flexbox   | 
 CURRENT: CSS Grid  | CURRENT: GIT and GITHUB
 
+### R1D55 Round 1 Day 55 March 1, 2020 
+
+**Today's Progress**:  Free Code Camp CSS Grid
+
+**Thoughts** CSS grid template areas
+
+**Link(s) to work:** (Progress made up to this point)
+[Responsive Web Design Principles: Grid Template Areas]
+https://www.freecodecamp.org/learn/responsive-web-design/css-grid/divide-the-grid-into-an-area-template
+
 ### R1D54 Round 1 Day 54 February 29, 2020 
 
 **Today's Progress**:  Free Code Camp CSS Grid, Git Troubleshooting
