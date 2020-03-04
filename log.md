@@ -12,6 +12,16 @@ Responsive Web Design  |
 CSS Flexbox   | 
 CURRENT: CSS Grid  | CURRENT: GIT and GITHUB
 
+### R1D58 Round 1 Day 58 March 4, 2020 
+
+**Today's Progress**:  Free Code Camp CSS Grid
+
+**Thoughts** CSS grid - repeat function
+
+**Link(s) to work:** (Progress made up to this point)
+[Responsive Web Design Principles: Repeat Function]
+https://www.freecodecamp.org/learn/responsive-web-design/css-grid/reduce-repetition-using-the-repeat-function
+
 ### R1D57 Round 1 Day 57 March 3, 2020 
 
 **Today's Progress**:  Free Code Camp CSS Grid
