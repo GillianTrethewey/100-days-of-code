@@ -12,6 +12,17 @@ Responsive Web Design  |
 CSS Flexbox   | 
 CURRENT: CSS Grid  | CURRENT: GIT and GITHUB
 
+### R1D59 Round 1 Day 59 March 5, 2020 
+
+**Today's Progress**:  Free Code Camp CSS Grid, notes on Git UNDO functions
+https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/
+
+**Thoughts** CSS grid - minmax
+
+**Link(s) to work:** (Progress made up to this point)
+[Responsive Web Design Principles: Minmax Function]
+https://www.freecodecamp.org/learn/responsive-web-design/css-grid/limit-item-size-using-the-minmax-function
+
 ### R1D58 Round 1 Day 58 March 4, 2020 
 
 **Today's Progress**:  Free Code Camp CSS Grid
