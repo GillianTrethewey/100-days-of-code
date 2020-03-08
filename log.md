@@ -12,6 +12,17 @@ Responsive Web Design  |
 CSS Flexbox   | 
 CURRENT: CSS Grid  | CURRENT: GIT and GITHUB
 
+### R1D61 Round 1 Day 61 March 7, 2020 
+
+**Today's Progress**:  Free Code Camp CSS Grid
+
+
+**Thoughts** CSS grid - auto-fit for grid-template-columns
+
+**Link(s) to work:** (Progress made up to this point)
+[Responsive Web Design Principles: Flexible Layouts Using Auto-fit]
+https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-flexible-layouts-using-auto-fit
+
 ### R1D60 Round 1 Day 60 March 6, 2020 
 
 **Today's Progress**:  Free Code Camp CSS Grid
