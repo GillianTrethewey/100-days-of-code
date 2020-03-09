@@ -10,7 +10,19 @@ Applied Visual Design  | Portfolio Project
 Applied Accessibility  | This log under GitHub control
 Responsive Web Design  | 
 CSS Flexbox   | 
-CURRENT: CSS Grid  | CURRENT: GIT and GITHUB
+CSS Grid  | 
+CURRENT: Portfolio Project #1 | CURRENT: GIT and GITHUB
+
+### R1D63 Round 1 Day 63 March 9, 2020 
+
+**Today's Progress**:  Free Code Camp CSS Grid finished
+
+
+**Thoughts** CSS grid within a grid - finished FCC CSS Grid
+
+**Link(s) to work:** (Progress made up to this point)
+[Responsive Web Design Principles: Grid Within a Grid]
+https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-grids-within-grids
 
 ### R1D62 Round 1 Day 62 March 8, 2020 
 
