@@ -12,6 +12,17 @@ Responsive Web Design  |
 CSS Flexbox   | 
 CURRENT: CSS Grid  | CURRENT: GIT and GITHUB
 
+### R1D62 Round 1 Day 62 March 8, 2020 
+
+**Today's Progress**:  Free Code Camp CSS Grid, fixing commit comments in Git
+
+
+**Thoughts** CSS grid - media queries
+
+**Link(s) to work:** (Progress made up to this point)
+[Responsive Web Design Principles: Media Queries]
+https://www.freecodecamp.org/learn/responsive-web-design/css-grid/use-media-queries-to-create-responsive-layouts
+
 ### R1D61 Round 1 Day 61 March 7, 2020 
 
 **Today's Progress**:  Free Code Camp CSS Grid
