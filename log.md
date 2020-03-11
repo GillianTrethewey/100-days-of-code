@@ -11,7 +11,18 @@ Applied Accessibility  | This log under GitHub control
 Responsive Web Design  | 
 CSS Flexbox   | 
 CSS Grid  | 
-CURRENT: Responsive Web Design Projects | CURRENT: GIT and GITHUB
+CURRENT: Responsive Web Design Projects (1/5 complete)| 
+CURRENT: JavaScript | CURRENT: GIT and GITHUB
+
+### R1D65 Round 1 Day 65 March 11, 2020 
+
+**Today's Progress**:  Started JavaScript while working on Projects
+
+**Thoughts** js comments, data types, variables
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Assignment Operator]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/storing-values-with-the-assignment-operator
 
 ### R1D64 Round 1 Day 64 March 10, 2020 
 
