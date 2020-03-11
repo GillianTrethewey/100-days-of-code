@@ -11,7 +11,18 @@ Applied Accessibility  | This log under GitHub control
 Responsive Web Design  | 
 CSS Flexbox   | 
 CSS Grid  | 
-CURRENT: Portfolio Project #1 | CURRENT: GIT and GITHUB
+CURRENT: Responsive Web Design Projects | CURRENT: GIT and GITHUB
+
+### R1D64 Round 1 Day 64 March 10, 2020 
+
+**Today's Progress**:  Tribute Page Project 1 of 5 finished
+
+**Thoughts** Tribute Page on Ada Lovelace
+
+**Link(s) to work:** (Progress made up to this point)
+[Responsive Web Design Principles: Tribute Page Project]
+https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
+https://codepen.io/starbucksamore/pen/mdJpwaX
 
 ### R1D63 Round 1 Day 63 March 9, 2020 
 
