@@ -14,6 +14,26 @@ CSS Grid  |
 CURRENT: Responsive Web Design Projects (1/5 complete)| 
 CURRENT: JavaScript | CURRENT: GIT and GITHUB
 
+### R1D68 Round 1 Day 68 March 14, 2020 
+
+**Today's Progress**:  JavaScript
+
+**Thoughts** case sensitivity
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Case Sensitivity]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-case-sensitivity-in-variables
+
+### R1D67 Round 1 Day 67 March 13, 2020 
+
+**Today's Progress**:  refresh on Cognitive Results
+
+**Thoughts** CSS button work on website refresh
+
+**Link(s) to work:** (Progress made up to this point)
+[Cognitive Results website refresh]
+https://cognitiveresults.com
+
 ### R1D66 Round 1 Day 66 March 12, 2020 
 
 **Today's Progress**:  JavaScript
