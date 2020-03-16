@@ -14,7 +14,26 @@ CSS Grid  |
 CURRENT: Responsive Web Design Projects (1/5 complete)| 
 CURRENT: JavaScript | CURRENT: GIT and GITHUB
 
-### R1D68 Round 1 Day 68 March 14, 2020 
+R1D70 Round 1 Day 70 March 16, 2020 
+
+**Today's Progress**:  Git for Humans
+
+**Thoughts** book
+
+**Link(s) to work:** (Progress made up to this point)
+Read Git for Humans 1/2 hour
+
+R1D69 Round 1 Day 69 March 15, 2020 
+
+**Today's Progress**:  JavaScript
+
+**Thoughts** operations
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Operations with JavaScript]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/divide-one-number-by-another-with-javascript### 
+
+R1D68 Round 1 Day 68 March 14, 2020 
 
 **Today's Progress**:  JavaScript
 
