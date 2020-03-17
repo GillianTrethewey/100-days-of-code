@@ -14,6 +14,16 @@ CSS Grid  |
 CURRENT: Responsive Web Design Projects (1/5 complete)| 
 CURRENT: JavaScript | CURRENT: GIT and GITHUB
 
+R1D71 Round 1 Day 71 March 17, 2020 
+
+**Today's Progress**:  JavaScript
+
+**Thoughts** decimals
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Decimal Numbers]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/create-decimal-numbers-with-javascript
+
 R1D70 Round 1 Day 70 March 16, 2020 
 
 **Today's Progress**:  Git for Humans
