@@ -14,6 +14,16 @@ CSS Grid  |
 CURRENT: Responsive Web Design Projects (1/5 complete)| 
 CURRENT: JavaScript | CURRENT: GIT and GITHUB
 
+R1D72 Round 1 Day 72 March 18, 2020 
+
+**Today's Progress**:  JavaScript
+
+**Thoughts** augmented addition
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Augmented Addition]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-addition
+
 R1D71 Round 1 Day 71 March 17, 2020 
 
 **Today's Progress**:  JavaScript
