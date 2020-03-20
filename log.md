@@ -14,6 +14,16 @@ CSS Grid  |
 CURRENT: Responsive Web Design Projects (1/5 complete)| 
 CURRENT: JavaScript | CURRENT: GIT and GITHUB
 
+R1D74 Round 1 Day 74 March 20, 2020 
+
+**Today's Progress**:  JavaScript
+
+**Thoughts** string variables
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: String Variables]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-string-variables
+
 R1D73 Round 1 Day 73 March 19, 2020 
 
 **Today's Progress**:  JavaScript
