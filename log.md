@@ -14,6 +14,16 @@ CSS Grid  |
 CURRENT: Responsive Web Design Projects (1/5 complete)| 
 CURRENT: JavaScript | CURRENT: GIT and GITHUB
 
+R1D75 Round 1 Day 75 March 21, 2020 
+
+**Today's Progress**:  JavaScript
+
+**Thoughts** escape literal quotes
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Escape Literal Quotes]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/escaping-literal-quotes-in-strings
+
 R1D74 Round 1 Day 74 March 20, 2020 
 
 **Today's Progress**:  JavaScript
