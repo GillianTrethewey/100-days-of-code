@@ -14,6 +14,16 @@ CSS Grid  |
 CURRENT: Responsive Web Design Projects (1/5 complete)| 
 CURRENT: JavaScript | CURRENT: GIT and GITHUB
 
+R1D76 Round 1 Day 76 March 22, 2020 
+
+**Today's Progress**:  JavaScript
+
+**Thoughts** single and double quotes
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Single Quotes]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/quoting-strings-with-single-quotes
+
 R1D75 Round 1 Day 75 March 21, 2020 
 
 **Today's Progress**:  JavaScript
