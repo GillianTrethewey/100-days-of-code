@@ -14,6 +14,16 @@ CSS Grid  |
 CURRENT: Responsive Web Design Projects (1/5 complete)| 
 CURRENT: JavaScript | CURRENT: GIT and GITHUB
 
+R1D77 Round 1 Day 77 March 23, 2020 
+
+**Today's Progress**:  JavaScript
+
+**Thoughts** escape sequences
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Escape Sequences in Strings]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/escape-sequences-in-strings
+
 R1D76 Round 1 Day 76 March 22, 2020 
 
 **Today's Progress**:  JavaScript
