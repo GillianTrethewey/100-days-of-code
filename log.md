@@ -14,6 +14,16 @@ CSS Grid  |
 CURRENT: Responsive Web Design Projects (1/5 complete)| 
 CURRENT: JavaScript | CURRENT: GIT and GITHUB
 
+R1D78 Round 1 Day 78 March 24, 2020 
+
+**Today's Progress**:  JavaScript
+
+**Thoughts** concatination with += operator
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Concatenating with Plus Equals]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-the-plus-equals-operator
+
 R1D77 Round 1 Day 77 March 23, 2020 
 
 **Today's Progress**:  JavaScript
