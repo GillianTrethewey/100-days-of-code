@@ -14,6 +14,16 @@ CSS Grid  |
 CURRENT: Responsive Web Design Projects (1/5 complete)| 
 CURRENT: JavaScript | CURRENT: GIT and GITHUB
 
+R1D79 Round 1 Day 79 March 25, 2020 
+
+**Today's Progress**:  JavaScript
+
+**Thoughts** appending variables to strings += operator
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Appending Variables to Strings]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/appending-variables-to-strings
+
 R1D78 Round 1 Day 78 March 24, 2020 
 
 **Today's Progress**:  JavaScript
