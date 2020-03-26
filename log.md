@@ -11,8 +11,19 @@ Applied Accessibility  | This log under GitHub control
 Responsive Web Design  | 
 CSS Flexbox   | 
 CSS Grid  | 
-CURRENT: Responsive Web Design Projects (1/5 complete)| 
+CURRENT: Responsive Web Design Projects (2/5 complete)| 
 CURRENT: JavaScript | CURRENT: GIT and GITHUB
+
+R1D80 Round 1 Day 80 March 26, 2020 
+
+**Today's Progress**:  JavaScript, Finished Portfolio 2 - HTML Form
+
+**Thoughts** length of a string
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Find the Length of a String]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/find-the-length-of-a-string
+https://codepen.io/starbucksamore/pen/RwPQjmZ
 
 R1D79 Round 1 Day 79 March 25, 2020 
 
