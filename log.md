@@ -8,11 +8,11 @@ Basic HTML and HTML5  | HTML5
 Basic CSS  | CSS
 Applied Visual Design  | Portfolio Project
 Applied Accessibility  | This log under GitHub control
-Responsive Web Design  | 
+Responsive Web Design  | GIT and GITHUB
 CSS Flexbox   | 
 CSS Grid  | 
-CURRENT: Responsive Web Design Projects (3/5 complete)| 
-CURRENT: JavaScript | CURRENT: GIT and GITHUB
+CURRENT: Web Projects (3/5 complete)| 
+CURRENT: JavaScript | CURRENT: Advanced CSS (Flexbox and Grid)
 
 R1D83 Round 1 Day 83 March 29, 2020 
 
