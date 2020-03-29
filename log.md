@@ -14,6 +14,16 @@ CSS Grid  |
 CURRENT: Responsive Web Design Projects (3/5 complete)| 
 CURRENT: JavaScript | CURRENT: GIT and GITHUB
 
+R1D82 Round 1 Day 82 March 28, 2020 
+
+**Today's Progress**:  JavaScript, Git Lesson Skillcrush
+
+**Thoughts** immutability of strings
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: String Immutability]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understand-string-immutability
+
 R1D81 Round 1 Day 81 March 27, 2020 
 
 **Today's Progress**:  JavaScript, Finished Portfolio 3 - Product Page, Git Lesson Skillcrush
