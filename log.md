@@ -14,6 +14,16 @@ CSS Grid  |
 CURRENT: Responsive Web Design Projects (3/5 complete)| 
 CURRENT: JavaScript | CURRENT: GIT and GITHUB
 
+R1D83 Round 1 Day 83 March 29, 2020 
+
+**Today's Progress**:  JavaScript, Git Lesson Skillcrush
+
+**Thoughts** bracket notation for strings
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Bracket Notation Strings]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-last-character-in-a-string
+
 R1D82 Round 1 Day 82 March 28, 2020 
 
 **Today's Progress**:  JavaScript, Git Lesson Skillcrush
