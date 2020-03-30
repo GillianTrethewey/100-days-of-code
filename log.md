@@ -14,11 +14,21 @@ CSS Grid  |
 CURRENT: Web Projects (3/5 complete)| 
 CURRENT: JavaScript | CURRENT: Advanced CSS (Flexbox and Grid)
 
+R1D84 Round 1 Day 84 March 30, 2020 
+
+**Today's Progress**:  JavaScript, Skillcrush flexbox (advanced CSS)
+
+**Thoughts** word blanks exercise, notes on Portfolio #3, Advanced CSS
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Word Blanks]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/word-blanks
+
 R1D83 Round 1 Day 83 March 29, 2020 
 
-**Today's Progress**:  JavaScript, Git Lesson Skillcrush
+**Today's Progress**:  JavaScript, Skillcrush Git Completed
 
-**Thoughts** bracket notation for strings
+**Thoughts** bracket notation for strings, Git module completed
 
 **Link(s) to work:** (Progress made up to this point)
 [Basic JavaScript: Bracket Notation Strings]
