@@ -14,6 +14,16 @@ CSS Grid  |
 CURRENT: Web Projects (3/5 complete)| 
 CURRENT: JavaScript | CURRENT: Advanced CSS (Flexbox and Grid)
 
+R1D86 Round 1 Day 86 April 1, 2020 
+
+**Today's Progress**:  JavaScript
+
+**Thoughts** array JS
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Multi-Dimensional Arrays]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/access-multi-dimensional-arrays-with-indexes
+
 R1D85 Round 1 Day 85 March 31, 2020 
 
 **Today's Progress**:  JavaScript, Skillcrush flexbox (advanced CSS)
