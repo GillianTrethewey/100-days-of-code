@@ -14,6 +14,16 @@ CSS Grid  |
 CURRENT: Web Projects (3/5 complete)| 
 CURRENT: JavaScript | CURRENT: Advanced CSS (Flexbox and Grid)
 
+R1D87 Round 1 Day 87 April 2, 2020 
+
+**Today's Progress**:  JavaScript
+
+**Thoughts** pop()
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Manipulate Arrays with pop()]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-pop
+
 R1D86 Round 1 Day 86 April 1, 2020 
 
 **Today's Progress**:  JavaScript
