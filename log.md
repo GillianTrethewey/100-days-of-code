@@ -14,6 +14,16 @@ CSS Grid  |
 CURRENT: Web Projects (3/5 complete)| 
 CURRENT: JavaScript | CURRENT: Advanced CSS (Flexbox and Grid)
 
+R1D88 Round 1 Day 88 April 3, 2020 
+
+**Today's Progress**:  JavaScript
+
+**Thoughts** shift()
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Manipulate Arrays with shift()]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-shift
+
 R1D87 Round 1 Day 87 April 2, 2020 
 
 **Today's Progress**:  JavaScript
