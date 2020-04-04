@@ -14,6 +14,16 @@ CSS Grid  |
 CURRENT: Web Projects (3/5 complete)| 
 CURRENT: JavaScript | CURRENT: Advanced CSS (Flexbox and Grid)
 
+R1D89 Round 1 Day 89 April 4, 2020 
+
+**Today's Progress**:  JavaScript
+
+**Thoughts** unshift()
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Manipulate Arrays with unshift()]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-unshift
+
 R1D88 Round 1 Day 88 April 3, 2020 
 
 **Today's Progress**:  JavaScript
