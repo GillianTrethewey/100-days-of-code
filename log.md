@@ -14,6 +14,16 @@ CSS Grid  |
 CURRENT: Web Projects (3/5 complete)| 
 CURRENT: JavaScript | CURRENT: Advanced CSS (Flexbox and Grid)
 
+R1D90 Round 1 Day 90 April 5, 2020 
+
+**Today's Progress**:  JavaScript
+
+**Thoughts** functions
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Functions with Arguments]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/passing-values-to-functions-with-arguments
+
 R1D89 Round 1 Day 89 April 4, 2020 
 
 **Today's Progress**:  JavaScript
