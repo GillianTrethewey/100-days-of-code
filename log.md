@@ -14,6 +14,16 @@ CSS Grid  |
 CURRENT: Web Projects (3/5 complete)| 
 CURRENT: JavaScript | CURRENT: Advanced CSS (Flexbox and Grid)
 
+R1D91 Round 1 Day 91 April 6, 2020 
+
+**Today's Progress**:  JavaScript
+
+**Thoughts** global variables
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Global Variables]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-scope-and-functions
+
 R1D90 Round 1 Day 90 April 5, 2020 
 
 **Today's Progress**:  JavaScript
