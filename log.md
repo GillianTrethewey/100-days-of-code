@@ -14,6 +14,16 @@ CSS Grid  |
 CURRENT: Web Projects (3/5 complete)| 
 CURRENT: JavaScript | CURRENT: Advanced CSS (Flexbox and Grid)
 
+R1D92 Round 1 Day 92 April 7, 2020 
+
+**Today's Progress**:  JavaScript
+
+**Thoughts** local variables
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Local Variables]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/local-scope-and-functions
+
 R1D91 Round 1 Day 91 April 6, 2020 
 
 **Today's Progress**:  JavaScript
