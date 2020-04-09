@@ -14,6 +14,16 @@ CSS Grid  |
 CURRENT: Web Projects (3/5 complete)| 
 CURRENT: JavaScript | CURRENT: Advanced CSS (Flexbox and Grid)
 
+R1D94 Round 1 Day 94 April 9, 2020 
+
+**Today's Progress**:  JavaScript
+
+**Thoughts** inequality operator
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Inequality Operator]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-inequality-operator
+
 R1D93 Round 1 Day 93 April 8, 2020 
 
 **Today's Progress**:  JavaScript
