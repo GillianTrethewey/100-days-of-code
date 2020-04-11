@@ -14,6 +14,16 @@ CSS Grid  |
 CURRENT: Web Projects (3/5 complete)| 
 CURRENT: JavaScript | CURRENT: Advanced CSS (Flexbox and Grid)
 
+R1D96 Round 1 Day 96 April 11, 2020 
+
+**Today's Progress**:  JavaScript
+
+**Thoughts** less than or equal to
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Less Than or Equal To Operator]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-less-than-or-equal-to-operator
+
 R1D95 Round 1 Day 95 April 10, 2020 
 
 **Today's Progress**:  JavaScript
