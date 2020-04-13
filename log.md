@@ -14,6 +14,16 @@ CSS Grid  |
 CURRENT: Web Projects (3/5 complete)| 
 CURRENT: JavaScript | CURRENT: Advanced CSS (Flexbox and Grid)
 
+R1D98 Round 1 Day 98 April 13, 2020 
+
+**Today's Progress**:  JavaScript
+
+**Thoughts** else if statements
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Else If Statements]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-if-statements
+
 R1D97 Round 1 Day 97 April 12, 2020 
 
 **Today's Progress**:  JavaScript
