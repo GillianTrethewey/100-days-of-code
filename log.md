@@ -9,10 +9,19 @@ Basic CSS  | CSS
 Applied Visual Design  | Portfolio Project
 Applied Accessibility  | This log under GitHub control
 Responsive Web Design  | GIT and GITHUB
-CSS Flexbox   | 
-CSS Grid  | 
-CURRENT: Web Projects (3/5 complete)| 
+CSS Flexbox, CSS Grid   | 
+Front End Development Certificate Earned | 
 CURRENT: JavaScript | CURRENT: Advanced CSS (Flexbox and Grid)
+
+R1D99 Round 1 Day 99 April 14, 2020 
+
+**Today's Progress**:  JavaScript
+
+**Thoughts** golf code
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Golf Code]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/golf-code
 
 R1D98 Round 1 Day 98 April 13, 2020 
 
