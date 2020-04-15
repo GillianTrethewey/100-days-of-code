@@ -13,6 +13,16 @@ CSS Flexbox, CSS Grid   |
 Front End Development Certificate Earned | 
 CURRENT: JavaScript | CURRENT: Advanced CSS (Flexbox and Grid)
 
+R1D100 Round 1 Day 100 April 15, 2020 
+
+**Today's Progress**:  JavaScript
+
+**Thoughts** DAY 100!!
+
+**Link(s) to work:** (Progress made up to this point)
+[Basic JavaScript: Switch Statments]
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/selecting-from-many-options-with-switch-statements
+
 R1D99 Round 1 Day 99 April 14, 2020 
 
 **Today's Progress**:  JavaScript
