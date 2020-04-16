@@ -15,6 +15,8 @@ CURRENT: JavaScript | CURRENT: Advanced CSS (Flexbox and Grid)
 
 DONE ROUND 1
 
+R1D100 Round 1 Day 100 April 15, 2020
+
 **Today's Progress**:  JavaScript
 
 **Thoughts** DAY 100!!
