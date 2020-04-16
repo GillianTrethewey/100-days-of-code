@@ -13,7 +13,7 @@ CSS Flexbox, CSS Grid   |
 Front End Development Certificate Earned | 
 CURRENT: JavaScript | CURRENT: Advanced CSS (Flexbox and Grid)
 
-R1D100 Round 1 Day 100 April 15, 2020 
+DONE ROUND 1
 
 **Today's Progress**:  JavaScript
 
